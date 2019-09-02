@@ -38,7 +38,7 @@ function visitOutlet(outletName, outletBranch, clothesPrint, clothesColor, cloth
 
     }
 };
-let fabric = visitOutlet("Sapphire","DHA","Flolral","Multi","9%");  
+let fabric = visitOutlet("Sapphire","DHA","Floral","Multi","9%");  
 
 Task : 3
 
